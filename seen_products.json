@@ -5,6 +5,6 @@
     "retailer": "Blinkit",
     "price": "\u20b9179",
     "url": "https://example.com/product",
-    "in_stock": false
+    "in_stock": true
   }
 }
