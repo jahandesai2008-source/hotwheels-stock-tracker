@@ -1,1 +1,12 @@
-[]
+
+[
+  {
+    "id": "example-hot-wheels-001",
+    "name": "Hot Wheels Example Car",
+    "retailer": "Blinkit",
+    "price": "₹179",
+    "url": "https://example.com/product",
+    "in_stock": false
+  }
+]
+
