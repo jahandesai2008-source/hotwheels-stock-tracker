@@ -1,6 +1,9 @@
 name: Hot Wheels Stock Monitor
 
 on:
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 permissions:
